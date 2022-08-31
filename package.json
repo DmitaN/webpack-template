@@ -4,15 +4,15 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "node_modules/.bin/webpack --progress",
-    "start": "node_modules/.bin/webpack-dev-server"
+    "build": "webpack --progress",
+    "start": "webpack-dev-server"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/DmitaN/webpack-template.git"
   },
   "keywords": [],
-  "author": "Alexandr Dmitriev",
+  "author": "Aleksandr Dmitriev",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/DmitaN/webpack-template/issues"
