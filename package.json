@@ -12,20 +12,20 @@
     "url": "git+https://github.com/DmitaN/webpack-template.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Alexandr Dmitriev",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/DmitaN/webpack-template/issues"
   },
   "homepage": "https://github.com/DmitaN/webpack-template#readme",
   "devDependencies": {
-    "css-loader": "^3.2.0",
-    "html-loader": "^0.5.5",
-    "html-webpack-plugin": "^3.2.0",
-    "mini-css-extract-plugin": "^0.8.0",
-    "webpack": "^4.41.1",
-    "webpack-cli": "^3.3.9",
-    "webpack-dev-server": "^3.8.2"
+    "css-loader": "*",
+    "html-loader": "*",
+    "html-webpack-plugin": "*",
+    "mini-css-extract-plugin": "*",
+    "webpack": "*",
+    "webpack-cli": "*",
+    "webpack-dev-server": "*"
   }
 
 }
