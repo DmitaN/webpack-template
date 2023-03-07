@@ -27,5 +27,4 @@
     "webpack-cli": "*",
     "webpack-dev-server": "*"
   }
-
 }
